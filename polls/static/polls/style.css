@@ -5,12 +5,27 @@ li a {
     font-size: 40px;
 }
 
+input[type=radio] {
+    color: white;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 40px;
+}
+
 h1 {
     color: yellow;
     font-weight: bolder;
     font-size: 50px;
     
 }
+
+h2 {
+    color: lightblue;
+    font-weight: bolder;
+    font-size: 30px;
+    
+}
+
 body {
     background: white url("images/wallpaper.jpg");
 }
